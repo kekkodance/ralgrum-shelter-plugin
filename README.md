@@ -1,5 +1,5 @@
 <h1 align="center">
-  Open in <img src="assets/ralgrum.png" width="48" height="48" valign="middle" /> ralgruM
+  Open in <img src="assets/ralgruM.svg" alt="ralgruM app icon" width="48" height="48" valign="middle" /> ralgruM
 </h1>
 
 <div align="center">
@@ -19,6 +19,7 @@
   `link.deezer.com`, `deezer.page.link`, `on.soundcloud.com`, and `m.soundcloud.com`.
 - SoundCloud profile tabs, navigation pages, and non-music subdomains stay in the browser.
 
+Brand assets: [app icon](assets/ralgruM.svg) · [transparent mark](assets/ralgruM_noBackground.svg).
 
 ## Install
 
