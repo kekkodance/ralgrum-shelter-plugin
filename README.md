@@ -1,5 +1,5 @@
 <h1 align="center">
-  Open in <img src="assets/ralgruM.svg" alt="ralgruM app icon" width="48" height="48" valign="middle" /> ralgruM
+  Open in <img src="assets/ralgruM_noBackground.svg" alt="ralgruM mark" width="48" height="48" valign="middle" /> ralgruM
 </h1>
 
 <div align="center">
