@@ -19,8 +19,6 @@
   `link.deezer.com`, `deezer.page.link`, `on.soundcloud.com`, and `m.soundcloud.com`.
 - SoundCloud profile tabs, navigation pages, and non-music subdomains stay in the browser.
 
-Brand assets: [app icon](assets/ralgruM.svg) · [transparent mark](assets/ralgruM_noBackground.svg).
-
 ## Install
 
 You can install the plugin in shelter with `https://kekkodance.github.io/ralgrum-shelter-plugin/open-in-ralgrum`.
